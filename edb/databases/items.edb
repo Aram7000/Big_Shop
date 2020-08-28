@@ -1,0 +1,26 @@
+|name : "items"
+|password : "none"
+
+|||Boom Best
+    "price" : "180"
+    "type" : "Բլոկ"
+    "count" : "12"
+    "img" : "Boom Best.jpg"
+
+|||Boom Mojito
+    "price" : "180"
+    "type" : "Բլոկ"
+    "count" : "12"
+    "img" : "Boom Mojito.jpeg"
+
+|||Boom Cola
+    "price" : "180"
+    "type" : "Բլոկ"
+    "count" : "12"
+    "img" : "Boom Cola.jpg"
+
+|||Կիլիկիա 0.5լ
+    "price" : "275"
+    "type" : "Արկղ"
+    "count" : "20"
+    "img" : "Կիլիկիա 0.5լ.jpg"

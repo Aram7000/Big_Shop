@@ -1,0 +1,17 @@
+|name : "accounts"
+|password : "undefined"
+
+|||0000000000
+    "name" : "Admin"
+    "admin" : 1
+    "phone number" : "96 66 32 55"
+
+|||0000000001
+    "name" : "ESIMINCH MARKET"
+    "admin" : "0"
+    "phone number" : "12 31 23 12"
+
+|||0000000002
+    "name" : "Techno Shop"
+    "admin" : "0"
+    "phone number" : "77 52 65 26"
